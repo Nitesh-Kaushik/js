@@ -52,3 +52,6 @@ console.log(addTwo(3, 4));
 ( (name) => {
         console.log(`DB CONNECTED TWO ${name}`);
 })('nitesh');
+
+x = 5
+console.log(x);
